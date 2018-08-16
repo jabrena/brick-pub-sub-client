@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: brick-pub-sub-client
+Implementation-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: Juan Antonio Breña Moral
+Main-Class: MainApplication
